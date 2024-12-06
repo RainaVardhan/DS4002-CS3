@@ -12,3 +12,5 @@ This project explores the main topics in student course reviews at the Universit
          - data appendix.pdf: Detailed Description of dataset variables
      -  OUTPUT/: Includes all generated outputs such as a wordcloud, histograms, and bar charts
      - TECHNICAL/: Tutorials and articles to help make sense of topic modeling techniques like Non-Negative Matrix Factorization (NMF)
+2. Hook Document: Describes the context and motivatino for the project
+3. Rubric: Outlines the project requirements and expectations
