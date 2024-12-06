@@ -1,9 +1,13 @@
 # Exploring Main Topics in Student Course Reviews at Waterloo University
 
 ## Contents
-1. DATA folder: Contains course_data_clean.csv, a cleaned version of our dataset, and stopwords copy.txt, which lists the stopwords used for topic modeling.
-2. SCRIPTS folder: Includes DS 4002 Project 1.ipynb, which holds all the source code for data loading, cleaning, and topic modeling.
-3. OUTPUT folder: Contains plots generated during the initial exploratory data analysis (EDA) of the dataset.
+1. Materials/:
+     - CONTEXT/: Background information about the motivation and context for this project
+     - DATA/:
+         - course_data_clean.csv: Cleaned dataset containing student reviews
+         - stopwords copy.txt: Custom stop words used for text preprocessing
+         - data appendix.pdf: Detailed Description of dataset variables
+     - TECHNICAL/: Tutorials and articles to help make sense of topic modeling techniques like Non-Negative Matrix Factorization (NMF)
 
 ## Software and platform
 For the project, we used Python and the additional operator, joblib, numpy, pandas, scikit-learn, and matplotlib libraries. Each of our group members used Mac platforms.
