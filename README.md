@@ -1,4 +1,6 @@
 # Exploring Main Topics in Student Course Reviews at Waterloo University
+![image](https://github.com/user-attachments/assets/1e47ba2f-14f6-41eb-9654-79364775c497)
+
 This project explores the main topics in student course reviews at the University of Waterloo using data science techniques. By analyzing feedback for two courses—ECON 101 and CS 115—this study uncovers patterns in student experiences and tests the hypothesis that "course difficulty" is one of the most frequently discussed topics.
 
 ## Contents
