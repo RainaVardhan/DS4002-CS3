@@ -10,6 +10,5 @@ This project explores the main topics in student course reviews at the Universit
          - course_data_clean.csv: Cleaned dataset containing student reviews
          - stopwords copy.txt: Custom stop words used for text preprocessing
          - data appendix.pdf: Detailed Description of dataset variables
+     -  OUTPUT/: Includes all generated outputs such as a wordcloud, histograms, and bar charts
      - TECHNICAL/: Tutorials and articles to help make sense of topic modeling techniques like Non-Negative Matrix Factorization (NMF)
-     - OUTPUT/: Includes all generated outputs such as a wordcloud, histograms, and bar charts
-
